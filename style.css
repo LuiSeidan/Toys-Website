@@ -1,0 +1,46 @@
+/* .mycustom{
+    border: 1px green;
+    position: relative;
+}
+
+.mycustom input[type=text]{
+    border: none;
+    width: 100%;
+    padding-right: 123px;
+}
+
+.mycustom .input-group-prepend{
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    bottom: 4px;z-index: 9;
+}
+.mycustom .button-input{
+    border-radius: 25%
+} */
+
+#header .input-group{
+    left: 30px !important;
+}
+
+#header input{
+    border-radius: 34px !important;
+    padding: 3%;
+}
+
+#header p{
+    font-size: 9px;
+    left: 14px;
+}
+
+#header button{
+    position: relative;
+    border-radius: 80px !important;
+}
+
+#header .input-group-append{
+    position: absolute;
+    right: 3px;
+    top: 4px;
+    bottom: 4px;z-index: 9;
+}
